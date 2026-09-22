@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/tomori/CH036_live_default_hair_basecolor_01"
+        "$lightwarptexture" "models/player/archangel/tomori/basewarp"
+         "$bumpmap" "models/player/archangel/tomori/normal"
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}
+

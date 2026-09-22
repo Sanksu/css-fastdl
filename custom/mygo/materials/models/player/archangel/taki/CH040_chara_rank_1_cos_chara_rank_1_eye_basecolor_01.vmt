@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/taki/CH040_chara_rank_1_cos_chara_rank_1_eye_basecolor_01"
+        "$lightwarptexture" "models/player/archangel/taki/basewarp"
+         "$bumpmap" "models/player/archangel/taki/normal"
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}

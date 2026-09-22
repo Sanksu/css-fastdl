@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/suomi2/c_SuomiSSR01_slg_hair_d"
+        "$lightwarptexture" "models/player/archangel/suomi2/basewarp"
+         "$bumpmap" "models/player/archangel/suomi2/normal"
+      "$phongexponenttexture" "models/player/archangel/suomi2/c_SuomiSSR01_slg_hair_spc"
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}

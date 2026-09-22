@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/soyo/CH039_chara_rank_1_eye_basecolor_01"
+        "$lightwarptexture" "models/player/archangel/soyo/basewarp"
+         "$bumpmap" "models/player/archangel/soyo/normal"
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}

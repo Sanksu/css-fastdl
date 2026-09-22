@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/anon/CH036_chara_rank_1_cos_chara_rank_1_body_basecolor_01"
+        "$lightwarptexture" "models/player/archangel/anon/basewarp"
+         "$bumpmap" "models/player/archangel/anon/normal"
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+
+}

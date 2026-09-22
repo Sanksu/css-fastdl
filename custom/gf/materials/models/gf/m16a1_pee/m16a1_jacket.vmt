@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/gf/m16a1_pee/M16A1_jacket"
+	$bumpmap "models/gf/m16a1_pee/shared/normal"
+
+	$lightwarptexture "models/gf/m16a1_pee/shared/toon_all"
+        "$nocull" 1
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+
+}

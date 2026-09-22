@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/archangel/Leva/c_LevaSSR01_slg_cloth1_d"
+        "$lightwarptexture" "models/player/archangel/Leva/basewarp"
+         "$bumpmap" "models/player/archangel/Leva/c_LevaSSR01_slg_cloth1_n"
+	"$phongexponenttexture" "models/player/archangel/Leva/c_LevaSSR01_slg_cloth1_rmo" 
+        "$nocull" 1
+	"$nodecal" 0
+	"$phong" "1"
+	"$phongboost"	".05"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$PhongExponent" "1.0"
+	"$halflambert" "1"
+    $alphatest 1
+    $allowalphatocoverage 1
+
+}

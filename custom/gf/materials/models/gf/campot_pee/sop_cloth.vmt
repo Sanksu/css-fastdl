@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/gf/campot_pee/SOP_cloth"
+	$bumpmap "models/gf/campot_pee/shared/normal"
+
+	$lightwarptexture "models/gf/campot_pee/shared/toon_all"
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+
+}

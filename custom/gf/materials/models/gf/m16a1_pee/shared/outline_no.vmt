@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\gf\m16a1_pee\shared\white_trans"
+	$alphatest	1
+	$nodecal 1
+
+}

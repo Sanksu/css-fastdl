@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/gf/ar15_pee/AR15_eye"
+	$bumpmap "models\gf\ar15_pee\shared\normal"
+
+	$lightwarptexture "models\gf\ar15_pee\shared\toon_head"
+        "$nocull" 1
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongexponent 5
+
+
+}
